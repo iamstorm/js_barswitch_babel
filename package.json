@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "easyui": "^3.5.10",
     "es6-promise": "^3.2.1",
     "isomorphic-fetch": "^2.2.1",
     "react": "^15.3.0",
